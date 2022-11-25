@@ -19,3 +19,7 @@ Jira, Excalidraw, and ofcourse ... pen and paper!
     -  [] create notes
     -  [] integrate JIRA
     -  [] send CSE faculty a mail of the screenshots of "JIRA integration" 
+
+### `syllabus:`
+
+lectures: `1` through `6`
