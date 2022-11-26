@@ -15,8 +15,8 @@ Jira, Excalidraw, and ofcourse ... pen and paper!
 `./jira` contains screenshots after the JIRA is integrated to the CSE-327 project
 
 ### `To Do:`
-    -  [] read slides
-    -  [] create notes
+    -  [X] read slides
+    -  [X] create notes (notes not yet uploaded)
     -  [] integrate JIRA
     -  [] send CSE faculty a mail of the screenshots of "JIRA integration" 
     -  [] create a git repository and add a CV, send screenshot to faculty.
