@@ -1,4 +1,4 @@
-# `Session 1`
+# `Midterm`
 _this session contains:_
 
     - Practice session for mathemetics makeup-mid
